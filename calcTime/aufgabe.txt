@@ -1,0 +1,28 @@
+Lernsituation: Fahrtzeiten berechnen
+------------------------------------
+
+1. Erstellen Sie ein Programm, in welchem der Anwender
+  - zunächst informiert wird, um was für ein Programm es sich handelt
+  - Informiert wird, von wem das Programm ist
+  - nach seiner Fahrgeschwindigkeit (in km/h) gefragt wird
+  - nach seiner zu fahrenden Stecke (in km) gefragt wird
+  - die benötigte Zeit (in h) berechnet und angezeigt wird 
+2. Am Ende des Programms wird tabellarisch angezeigt:
+  - Fahrstrecke (in km) mit Einheit
+  - Geschwindigkeit (in km/h) mit Einheit
+  - Fahrzeit (in h) mit Einheit
+------------------------------------
+3. Der Anwender wird zusätzlich gefragt, ob er die Fahrgeschwindigkeit
+    in km/h oder m/s angegeben möchte
+------------------------------------
+4. Der Anwender wird gefragt, ob er eine Pause machen möchte; wenn ja,
+    wird die Pausendauer in Minuten erfragt und zur Gesamtdauer hinzugerechnet
+------------------------------------
+5. Die Ausgabe der Fahrzeit erfolgt in Stunden und Minuten (Sekunden werden vernachlässigt)
+    (Hilfe von Hr.JAB)
+Bsp. einer Ausgabe:
+
+Fahrstrecke:           400km
+Geschwindigkeit:       80km/h
+Pausendauer:           30min
+Fahrzeit:            5h 30min

@@ -1,0 +1,9 @@
+Schleifen: Zahlen zeilenweise ausgeben 
+1. 1 bis 100
+2. 100 bis 1
+3. 0, 2, 4, 6, ... 100
+4. 20, 18, 16, ... -16, -18, -20
+5. 1, 2, 4, 8, 16, ... 256
+6. 1, 1, 2, 3, 5, 8, 13, 21, 34, ... (?)
+Zahlen von 0 bis 100 aufsumnieren und Ergebnis ausgeben
+Zahlen von x bis y aufsummieren und Ergebnis ausgeben. x und y werden vom Benutzer eingelesen.
